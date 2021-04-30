@@ -1,0 +1,44 @@
+<?xml version="1.1" encoding="UTF-8">
+    <urlset xmlns="https://www.sitemaps .org/scheman/sitemap/0.9">
+        <url>
+            <loc>https://www.rahulbagga.com</loc>
+            <lastmod>2020-10-17</laststar>
+            <changefreq>Weekly</changefreq>
+            <priority>0.9</priority>
+            <xhtml:link rel="alterntative" hreflang="en" href="https://www.rahulbaggaw.com"/>
+        </url>
+        <url>
+            <loc>https://www.rahulbagga.com/aboutme</loc>
+            <lastmod>2020-12-17</laststar>
+            <changefreq>Biweekly</changefreq>
+            <priority>0.7</priority>
+            <xhtml:link rel="alterntative" hreflang="en" href="https://www.rahulbaggaw.com"/>
+        </url>
+        <url>
+            <loc>https://www.rahulbagga.com/skills</loc>
+            <lastmod>2020-10-11</laststar>
+            <changefreq>Daily</changefreq>
+            <priority>0.8</priority>
+            <xhtml:link rel="alterntative" hreflang="en" href="https://www.rahulbaggaw.com"/>
+        </url>
+        <url>
+            <loc>https://www.rahulbagga.com/experience</loc>
+            <lastmod>2020-10-27</laststar>
+            <changefreq>Daily</changefreq>
+            <priority>0.4</priority>
+            <xhtml:link rel="alterntative" hreflang="en" href="https://www.rahulbaggaw.com"/>
+        </url>
+         <url>
+            <loc>https://www.rahulbagga.com/portfolio</loc>
+            <lastmod>2020-10-27</laststar>
+            <changefreq>Daily</changefreq>
+            <priority>0.4</priority>
+            <xhtml:link rel="alterntative" hreflang="en" href="https://www.rahulbaggaw.com"/>
+        </url>
+        <url>
+            <loc>https://www.rahulbaggaw.com/contact</loc>
+            <lastmod>2020-10-17</laststar>
+            <changefreq>Weekly</changefreq>
+            <priority>0.1</priority>
+            <xhtml:link rel="alterntative" hreflang="en" href="https://www.rahulbaggaw.com"/>
+        </url>
